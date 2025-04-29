@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f9f9f9;
+    background-color: #e6b800;
     color: #333;
     margin: 0;
     padding: 0;
@@ -62,7 +62,7 @@ form input[type="email"] {
 }
 
 form input[type="submit"] {
-    background-color: #ffcc00; /* Amarelo das abelhas */
+    background-color: #e6b800; /* Amarelo das abelhas */
     border: none;
     padding: 10px;
     cursor: pointer;
