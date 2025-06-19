@@ -87,3 +87,8 @@ ul li {
     height: auto; /* Mantém a proporção das imagens */
     margin: 5px; /* Espaçamento entre as imagens */
 }
+
+.img {
+  border: 2px solid black;
+}
+
