@@ -88,7 +88,8 @@ ul li {
     margin: 5px; /* Espaçamento entre as imagens */
 }
 
-.img {
+/* CORREÇÃO: Mudança de .img para img (sem o ponto) */
+img {
   border: 2px solid black;
   border-radius: 10px;
 }
